@@ -1,4 +1,4 @@
-/**   Limit Orders for Pancakeswap, Copyright GHOSTTools 2021.
+/**   Limit Orders for the Fantom Network, Copyright GHOSTTools 2021.
  *
  *    This program is free software: you can redistribute it and/or modify
  *    it under the terms of the GNU Affero General Public License as
